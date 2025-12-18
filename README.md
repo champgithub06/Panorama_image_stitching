@@ -1,4 +1,4 @@
-# 🌄 Panorama Image Stitching from Scratch
+# 🌄 Panorama Image Stitching - Computer Vision Project
 
 This project builds a **complete panorama image stitching pipeline from scratch**, including feature matching, bundle adjustment, spherical warping, seam optimization, and advanced blending to generate **high-quality panoramic images**.
 
@@ -117,11 +117,6 @@ To hide seams and brightness differences, multiple blending techniques are used:
 
 👉 Final output looks like **one single photograph**.
 
----
-
-⭐ If this project helped you understand panorama stitching, please **star the repository**!
-
----
 
 ## ▶️ How to Run the Project
 
@@ -130,3 +125,11 @@ Run the application by passing the path to the images folder and optional argume
 ### Basic Usage
 ```bash
 python main.py images
+```
+
+
+---
+
+⭐ If this project helped you understand panorama stitching, please **star the repository**!
+
+---
